@@ -1,4 +1,4 @@
-# Loan Default Risk Analysis
+# Credit Risk Modeling: Predicting Loan Default Using LendingClub Data
 
 This project analyzes LendingClub loan data to identify borrower characteristics associated with loan default and estimate the probability of default (PD) using logistic regression.
 
